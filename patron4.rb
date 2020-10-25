@@ -8,3 +8,5 @@ value.times do |i|
         print "3" 
     end        
 end
+
+print "\n"

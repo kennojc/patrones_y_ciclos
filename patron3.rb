@@ -6,3 +6,4 @@ value.times do |i|
         print "2"
     end
 end
+print "\n"
